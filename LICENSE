@@ -1,0 +1,122 @@
+=======================================
+GIẤY PHÉP MÃ NGUỒN MỞ
+OPEN SOURCE LICENSE
+=======================================
+
+=======================================
+TIẾNG VIỆT
+=======================================
+
+BẢN QUYỀN (C) 2024 _ NGUYỄN CHÍ BÁCH - VÕ HÀ BẠCH YẾN
+TRƯỜNG: THCS ĐÔNG HỒ
+
+Dự án: TRẠM GIÁM SÁT THỜI TIẾT THÔNG MINH (Smart Weather Monitoring Station)
+
+Giấy phép MIT (MIT License)
+
+Theo đây, bất kỳ ai nhận được bản sao của phần mềm này và các tài liệu 
+liên quan (gọi chung là "Phần mềm") đều được miễn phí quyền sử dụng Phần 
+mềm mà không bị giới hạn, bao gồm nhưng không giới hạn các quyền được sử 
+dụng, sao chép, chỉnh sửa, hợp nhất, xuất bản, phân phối, cấp phép lại, 
+và/hoặc bán bản sao của Phần mềm, cũng như cho phép người được cung cấp 
+Phần mềm làm những điều tương tự, với các điều kiện sau:
+
+1. Thông báo bản quyền ở trên và thông báo cấp phép này phải được bao gồm
+   trong tất cả các bản sao hoặc phần quan trọng của Phần mềm.
+
+2. PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO,
+   DÙ LÀ RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN CÁC BẢO ĐẢM VỀ
+   KHẢ NĂNG THƯƠNG MẠI, PHÙ HỢP VỚI MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM.
+   TRONG MỌI TRƯỜNG HỢP, CÁC TÁC GIẢ HOẶC CHỦ SỞ HỮU BẢN QUYỀN KHÔNG PHẢI
+   CHỊU TRÁCH NHIỆM VỀ BẤT KỲ KHIẾU NẠI, THIỆT HẠI HOẶC TRÁCH NHIỆM PHÁP
+   LÝ NÀO KHÁC, DÙ TRONG HÀNH ĐỘNG HỢP ĐỒNG, TRA TẤN HAY CÁCH KHÁC, PHÁT
+   SINH TỪ, LIÊN QUAN ĐẾN HOẶC KẾT QUẢ TỪ VIỆC SỬ DỤNG HOẶC CÁCH DÙNG KHÁC
+   CỦA PHẦN MỀM.
+
+=======================================
+ENGLISH
+=======================================
+
+MIT LICENSE
+
+Copyright (c) 2026 _ NGUYỄN CHÍ BÁCH - VÕ HÀ BẠCH YẾN 
+School: ĐÔNG HỒ SECONDARY SCHOOL
+
+Project: SMART WEATHER MONITORING STATION (Trạm giám sát thời tiết thông minh)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the Software.
+
+2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+   DEALINGS IN THE SOFTWARE.
+
+=======================================
+THÔNG TIN DỰ ÁN | PROJECT INFORMATION
+=======================================
+
+TÊN DỰ ÁN | PROJECT NAME:
+TRẠM GIÁM SÁT THỜI TIẾT THÔNG MINH
+(Smart Weather Monitoring Station)
+
+TÁC GIẢ | AUTHOR:
+NGUYỄN CHÍ BÁCH - VÕ HÀ BẠCH YẾN 
+
+ĐƠN VỊ | ORGANIZATION:
+TRƯỜNG THCS ĐÔNG HỒ  | ĐÔNG HỒ SECONDARY SCHOOL
+
+NĂM | YEAR:
+2026
+
+GIẤY PHÉP | LICENSE:
+MIT License (Open Source)
+
+=======================================
+THƯ VIỆN SỬ DỤNG | USED LIBRARIES
+=======================================
+
+Dự án này sử dụng các thư viện mã nguồn mở sau:
+This project uses the following open source libraries:
+
+1. Adafruit AHTX0 (MIT License)
+   - Copyright (c) Adafruit Industries
+
+2. BH1750 (MIT License)
+   - Copyright (c) Christopher Laws
+
+3. Adafruit ST7789 (BSD License)
+   - Copyright (c) Adafruit Industries
+
+4. Firebase ESP Client (MIT License)
+   - Copyright (c) mobizt
+
+Các thư viện này được sử dụng theo đúng điều khoản giấy phép của chúng.
+These libraries are used in accordance with their license terms.
+
+=======================================
+CAM KẾT MÃ NGUỒN MỞ | OPEN SOURCE COMMITMENT
+=======================================
+
+Tôi cam kết đây là sản phẩm do chính tôi nghiên cứu và phát triển. 
+Mã nguồn được công khai nhằm mục đích học tập, nghiên cứu và phát triển 
+cộng đồng IoT tại Việt Nam.
+
+I hereby commit that this is a product of my own research and development.
+The source code is made public for learning, research, and development of 
+the IoT community in Vietnam.
+
+=======================================
+Nguyễn Chi Bách - Võ Hà Bạch Yến
+[Ký tên | Signature]
+=======================================
